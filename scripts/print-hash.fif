@@ -1,0 +1,5 @@
+// print-hash.fif <boc-file>
+
+$1 file>B B>boc =: cell
+cell hashB Bx. cr
+bye

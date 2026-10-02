@@ -1,7 +1,7 @@
 ;; elector-code.fc - elector smartcontract
 
 {-
-    This file is a modified from TON Blockchain Library.
+    This file is a modified version from TON Blockchain Library.
 
     TON Blockchain Library is free software: you can redistribute it and/or modify
     it under the terms of the GNU Lesser General Public License as published by

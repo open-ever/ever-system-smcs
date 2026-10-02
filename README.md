@@ -2,9 +2,9 @@
 
 Everscale blockchain system smart contracts.
 
-| Contract | Source | Mainnet address | Code hash |
-|----------|--------|-----------------|-----------|
-| Elector | [contracts/elector.fc](contracts/elector.fc) | [-1:3333…3333](https://evertx.us/acc/-1:3333333333333333333333333333333333333333333333333333333333333333) | `3f9e354f7c39020c08ea6c0f036f7a9fc2393e8187f6e60ee0a2388ad6997bd6` |
+| Source | Code hash |
+| - | - |
+| [contracts/elector.fc](contracts/elector.fc) | `3f9e354f7c39020c08ea6c0f036f7a9fc2393e8187f6e60ee0a2388ad6997bd6` |
 
 ## Build
 

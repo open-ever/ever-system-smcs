@@ -5,6 +5,7 @@ Everscale blockchain system smart contracts.
 | Source | Code hash |
 | - | - |
 | [contracts/elector.fc](contracts/elector.fc) | `3f9e354f7c39020c08ea6c0f036f7a9fc2393e8187f6e60ee0a2388ad6997bd6` |
+| [contracts/config.fc](contracts/config.fc) | `bac24be401b3489f90018d08137c4063f24bfc6def86a61836060d6dbc32e703` |
 
 ## Build
 

@@ -1,4 +1,4 @@
-CONTRACTS 	:= elector
+CONTRACTS 	:= elector config
 BOCS 		:= $(CONTRACTS:%=build/%.boc)
 
 .PHONY: all hashes clean
@@ -13,7 +13,7 @@ build/%.boc: contracts/%.fc
 
 hashes: $(BOCS)
 	@for c in $(CONTRACTS); do \
-		printf '%s: ' $$c; \
+		printf '\n* code hash of %s:\n' contracts/$$c.fc; \
 		fift -s scripts/print-hash.fif build/$$c.boc || exit 1; \
 	done
 
